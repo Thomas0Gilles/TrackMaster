@@ -1,4 +1,4 @@
-Project with Thomas Gilles on Reinforcement Learning for Race Cars.
+Project with [Guillaume Couairon](https://gitlab.com/PhazCode) on Reinforcement Learning for Race Cars.
 See Project Page [here](https://phazcode.gitlab.io/trackmaster/)
 
 ![l](https://phazcode.gitlab.io/projects/trackmaster_images/animated.gif)
